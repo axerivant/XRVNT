@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: February 27, 2023
+Last updated: March 15, 2023
 
 Reveur ('us', 'our app', 'we')
 
